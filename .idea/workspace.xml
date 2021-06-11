@@ -171,40 +171,6 @@
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="740" y="242" key="FileChooserDialogImpl" timestamp="1596122368648">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="740" y="242" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1596122368648" />
-    <state width="1877" height="541" key="GridCell.Tab.0.bottom" timestamp="1596136424846">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="541" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1596136424846" />
-    <state width="1877" height="541" key="GridCell.Tab.0.center" timestamp="1596136424846">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="541" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1596136424846" />
-    <state width="1877" height="541" key="GridCell.Tab.0.left" timestamp="1596136424846">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="541" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1596136424846" />
-    <state width="1877" height="541" key="GridCell.Tab.0.right" timestamp="1596136424846">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="541" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1596136424846" />
-    <state x="625" y="284" key="NewModule_or_Project.wizard" timestamp="1596122370195">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="625" y="284" key="NewModule_or_Project.wizard/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1596122370195" />
-    <state width="630" height="203" key="javadoc.popup.new" timestamp="1596135923533">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="630" height="203" key="javadoc.popup.new/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1596135923533" />
-    <state x="703" y="446" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1596133584925">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="703" y="446" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1596133584925" />
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
