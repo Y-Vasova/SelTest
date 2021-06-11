@@ -1,5 +1,6 @@
 package com.bdd.BDDFundTransfer;
 
+import Core.BaseTest;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
@@ -12,20 +13,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
-public class FundTransferStepDefinitions {
-
+public class FundTransferStepDefinitions extends BaseTest {
     private WebDriver driver;
-
-    @Before
-    public void setup() {
-        System.setProperty("webdriver.chrome.driver", "E:\\drivers\\chromedriver.exe");
-        this.driver = new ChromeDriver();
-    }
-
-    @After
-    public void tearDown() {
-        this.driver.quit();
-    }
 
 
     @Given("the user is on Fund Transfer Page")

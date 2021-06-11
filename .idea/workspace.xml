@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c9c622-3685-4894-b42a-fa4c0de0756b" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/loginuser" afterDir="false" />
+    <list default="true" id="12c9c622-3685-4894-b42a-fa4c0de0756b" name="Default Changelist" comment="add Junit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Core/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bdd/BDDFundTransfer/FundTransferStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bdd/BDDFundTransfer/FundTransferStepDefinitions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623397918950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add LoginuserCucumber">
+      <created>1623398166661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623398166661</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Junit">
+      <created>1623398366421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623398366421</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +184,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="add LoginuserCucumber" />
+    <MESSAGE value="add Junit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Junit" />
   </component>
   <component name="masterDetails">
     <states>
